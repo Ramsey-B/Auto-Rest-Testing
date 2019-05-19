@@ -1,0 +1,11 @@
+C:\Users\ramsey.bland\source\repos\ApiTest\ApiTest.DAO\bin\Debug\netstandard2.0\ApiTest.DAO.deps.json
+C:\Users\ramsey.bland\source\repos\ApiTest\ApiTest.DAO\bin\Debug\netstandard2.0\ApiTest.DAO.dll
+C:\Users\ramsey.bland\source\repos\ApiTest\ApiTest.DAO\bin\Debug\netstandard2.0\ApiTest.DAO.pdb
+C:\Users\ramsey.bland\source\repos\ApiTest\ApiTest.DAO\obj\Debug\netstandard2.0\ApiTest.DAO.csproj.CoreCompileInputs.cache
+C:\Users\ramsey.bland\source\repos\ApiTest\ApiTest.DAO\obj\Debug\netstandard2.0\ApiTest.DAO.AssemblyInfoInputs.cache
+C:\Users\ramsey.bland\source\repos\ApiTest\ApiTest.DAO\obj\Debug\netstandard2.0\ApiTest.DAO.AssemblyInfo.cs
+C:\Users\ramsey.bland\source\repos\ApiTest\ApiTest.DAO\obj\Debug\netstandard2.0\ApiTest.DAO.dll
+C:\Users\ramsey.bland\source\repos\ApiTest\ApiTest.DAO\obj\Debug\netstandard2.0\ApiTest.DAO.pdb
+C:\Users\ramsey.bland\source\repos\ApiTest\ApiTest.DAO\bin\Debug\netstandard2.0\Microsoft.VisualStudio.TestPlatform.MSTest.TestAdapter.dll
+C:\Users\ramsey.bland\source\repos\ApiTest\ApiTest.DAO\bin\Debug\netstandard2.0\Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.Interface.dll
+C:\Users\ramsey.bland\source\repos\ApiTest\ApiTest.DAO\bin\Debug\netstandard2.0\Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.dll

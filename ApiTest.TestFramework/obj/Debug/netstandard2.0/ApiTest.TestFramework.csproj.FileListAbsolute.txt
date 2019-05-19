@@ -1,0 +1,4 @@
+C:\Users\ramsey.bland\source\repos\ApiTest\ApiTest.TestFramework\obj\Debug\netstandard2.0\ApiTest.TestFramework.csprojAssemblyReference.cache
+C:\Users\ramsey.bland\source\repos\ApiTest\ApiTest.TestFramework\obj\Debug\netstandard2.0\ApiTest.TestFramework.csproj.CoreCompileInputs.cache
+C:\Users\ramsey.bland\source\repos\ApiTest\ApiTest.TestFramework\obj\Debug\netstandard2.0\ApiTest.TestFramework.AssemblyInfoInputs.cache
+C:\Users\ramsey.bland\source\repos\ApiTest\ApiTest.TestFramework\obj\Debug\netstandard2.0\ApiTest.TestFramework.AssemblyInfo.cs
